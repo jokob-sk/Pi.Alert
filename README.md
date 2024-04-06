@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
+
 # 💻🔍 Network security scanner & notification framework
 
 Get visibility of what's going on on your WIFI/LAN network. Schedule scans for devices, port changes and get alerts if unknown devices or changes are found. Write your own [Plugins](https://github.com/jokob-sk/Pi.Alert/tree/main/front/plugins#readme) with auto-generated UI and in-build notification system. Build out and easily maintain your network source of truth (NSoT).
