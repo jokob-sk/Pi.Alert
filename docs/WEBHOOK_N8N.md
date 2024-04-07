@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
+
 ### Create a simple n8n workflow
 
 N8N can be used for more advanced conditional notification use cases. For example, you want only to get notified if two out of a specified list of devices is down. Or you can use other plugins to process the notifiations further. The below is a simple example of sending an email on a webhook.  

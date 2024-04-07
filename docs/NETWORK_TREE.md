@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
+
 ## How to setup your Network page
 
 Make sure you have a root device with the MAC `Internet` (No other MAC addresses are currently supported as the root node) set to a network device type (e.g.: **Type**:`Router`).

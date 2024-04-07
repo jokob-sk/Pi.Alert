@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
+
 ## Am I running the latest released version?
 
 Since version 23.01.14 PiAlert uses a simple timestamp-based version check to verify if a new version is available. You can check the [current and past releases here](https://github.com/jokob-sk/Pi.Alert/releases), or have a look at what I'm [currently working on](https://github.com/jokob-sk/Pi.Alert/issues/138). 

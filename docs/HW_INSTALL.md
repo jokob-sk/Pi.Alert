@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
 # How to install PiAlert on the server hardware
 
 To download and install PiAlert on the hardware/server directly use the `curl` or `wget` commands at the bottom of this page.

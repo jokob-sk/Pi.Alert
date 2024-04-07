@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
+
 > Community translations of this file (might be out-of-date): <a href="https://github.com/jokob-sk/Pi.Alert/blob/main/front/plugins/README_ES.md">Spanish(<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/es.svg" alt="README_ES.md" style="height: 16px !important;width: 20px !important;padding-inline:3px !important;">)</a>, <a href="https://github.com/jokob-sk/Pi.Alert/blob/main/front/plugins/README_DE.md">German(<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/de.svg" alt="README_DE.md" style="height: 16px !important;width: 20px !important;padding-inline:3px !important;">)</a> 
 
 # 📚 Docs for individual plugins 
