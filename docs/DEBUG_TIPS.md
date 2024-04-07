@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> ⚠ This is a public archive and the active project has been renamed to **NetAlertX** and moved: [jokob.sk/NetAlertX](https://github.com/jokob-sk/NetAlertX)
+> 
+>  - To differentiate from the upstream stale project
+>  - To differentiate from other active forks
+>  - To indicate this is not a Raspberry Pi-specific tool anymore
+>
+
 # Debugging and troubleshooting
 
 Please follow tips 1 - 4 to get a more detailed error. 
